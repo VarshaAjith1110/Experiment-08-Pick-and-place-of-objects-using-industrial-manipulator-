@@ -79,7 +79,11 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+## PROGRAM:
+![image](https://user-images.githubusercontent.com/94222288/205096840-d2c2d427-a760-4d9f-bd67-f8ee7386fd12.png)
+![image](https://user-images.githubusercontent.com/94222288/205096881-997a2821-3506-4071-a724-48cf33364588.png)
+![image](https://user-images.githubusercontent.com/94222288/205096913-25ca862c-92b6-4f18-ba2e-3f1bc9aa8ff2.png)
+
 
 
 
@@ -101,6 +105,7 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![image](https://user-images.githubusercontent.com/94222288/205096977-18902c05-dbb8-4b55-9cc8-5cd04efaefe4.png)
 
 
 
